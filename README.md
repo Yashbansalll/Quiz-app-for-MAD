@@ -10,12 +10,6 @@ The salient features of the app are:
    5. User can contact the developer of the app for any queries.
    6. User can also share the app among their friends by email.
    
-The app is designed with Google Material Design that supports the Android versions from Kitkat 4.4.0 to Naugat 7.7.1 
-
-If you want to contact me, then feel free to ping me here: https://kvikesh800.wixsite.com/learner/contact
-
-### You can download the .apk file of the project at: https://github.com/vikesh8860/QuizBook/releases/latest
-
 ### **I also highly recommend you to suggest some improvements in the project.**
 
 # Screenshots
